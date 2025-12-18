@@ -1,17 +1,17 @@
 
 # Project1
 
-## 📘 Overview
+ 📘 Overview
 
-Project1 is a Python-based application designed to [briefly describe the primary function or purpose of your project]. This repository serves as a foundational step in [mention the broader goal or vision of the project].
+Project1 is a Python-based application designed to act as a simple AI assistant that can both chat with the user and perform basic arithmetic calculations. This repository serves as a foundational step in building more advanced agent-based AI utilities on top of Groq’s LLaMA 3 model and LangChain-style tool integration.
 
-## ⚙️ Features
+ ⚙️ Features
 
-* [Feature 1]
-* [Feature 2]
-* [Feature 3]
+- Interactive command-line chat assistant powered by Groq’s LLaMA 3 model
+- Built-in calculator tool to perform basic arithmetic operations with natural language
+- Extensible tool-based architecture for adding more utilities (e.g., additional tools and workflows) in the future
 
-## 🛠️ Installation
+ 🛠️ Installation
 
 To set up the project locally, follow these steps:
 
@@ -41,7 +41,7 @@ To run the application:
 python main.py
 ```
 
-For detailed usage instructions, refer to the [Usage Documentation](link-to-usage-docs).
+For detailed usage instructions, refer to the [Usage Documentation](https://github.com/AditiPriya03/project1/blob/main/link-to-usage-docs).
 
 ## 🧪 Testing
 
@@ -53,21 +53,21 @@ pytest
 
 Ensure that all tests pass before contributing.
 
-## 🤝 Contributing
+
+ 🤝 Contributing
 
 We welcome contributions to Project1! To get started:
 
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature-branch`).
-3. Make your changes.
-4. Commit your changes (`git commit -am 'Add new feature'`).
-5. Push to the branch (`git push origin feature-branch`).
-6. Open a Pull Request.
+- Fork the repository.
+- Create a new branch (`git checkout -b feature-branch`).
+- Make your changes.
+- Commit your changes (`git commit -am 'Add new feature'`).
+- Push to the branch (`git push origin feature-branch`).
+- Open a Pull Request.
 
-Please refer to our [Contributing Guidelines](link-to-contributing-guidelines) for more information.
+Please refer to our [Contributing Guidelines](https://github.com/AditiPriya03/project1/blob/main/link-to-contributing-guidelines) for more information.
 
-## 📝 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+ 📝 License
 
-Feel free to customize the placeholders with specific details about your project. If you need assistance with badges, visual assets, or further enhancements, let me know!
+This project is licensed under the MIT License – see the [LICENSE](https://github.com/AditiPriya03/project1/blob/main/LICENSE) file for details.
